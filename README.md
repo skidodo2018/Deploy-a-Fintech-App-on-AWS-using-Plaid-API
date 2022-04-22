@@ -308,6 +308,7 @@ It's important to clean up and terminate the resources/services utilized in AWS 
 ![](/images7/del-app.png)
 
 - confirm delete
+
 ![](/images7/app-del.png)
 
 ## Conclusion
