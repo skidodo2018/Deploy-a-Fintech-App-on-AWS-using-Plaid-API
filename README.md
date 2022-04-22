@@ -1,1 +1,1 @@
-# Deploy-a-Fintech-App-on-AWS-using-Plaid-API Project 7
+# Deploy a Fintech App on AWS using Plaid API Project 7
